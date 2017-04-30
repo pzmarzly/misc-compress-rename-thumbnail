@@ -1,3 +1,3 @@
-# Scripts useful to maintain a certain private website repo 
+# Imagemagick scripts useful to maintain a certain private website repo images
 
-Require 2 folders: `in` and `out`
+Require 2 empty folders: `in` and `out`
